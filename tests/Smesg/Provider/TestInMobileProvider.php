@@ -21,7 +21,7 @@ class TestInMobileProvider extends TestCase
         'user' => '1',
         'password' => '1',
         'serviceid' => '1',
-        'from' => '',
+        'from' => '1',
         'price' => 0,
         'overcharge' => 0,
     );
@@ -53,7 +53,7 @@ class TestInMobileProvider extends TestCase
         $provider->addMessage(12345678, 'test message');
         $response = $provider->send(true);
 
-        $this->assertEquals($response->getBody(), 'user=1&password=1&serviceid=1&sender=&message=test+message&msisdn=12345678&price=0&overcharge=0');
+        $this->assertEquals($response->getBody(), 'user=1&password=1&serviceid=1&sender=1&message=test+message&msisdn=12345678&price=0&overcharge=0');
         $this->assertEquals($response->getHeaders(), array('content-type' => 'application/x-www-form-urlencoded; charset=utf-8'));
     }
 
@@ -70,7 +70,7 @@ class TestInMobileProvider extends TestCase
 
         $this->assertEquals($response->getHeaders(), array('content-type' => 'text/xml; charset=utf-8'));
         $this->assertXmlStringEqualsXmlString($xml, '<?xml version="1.0" encoding="utf-8"?>
-<push><user>1</user><password>1</password><serviceid>1</serviceid><smsbatch><sendtime>00-00-0000 00:00:00</sendtime><price>0</price><message><![CDATA[test message]]></message><recipients><msisdn>12345678</msisdn></recipients></smsbatch><smsbatch><sendtime>00-00-0000 00:00:00</sendtime><price>0</price><message><![CDATA[test message]]></message><recipients><msisdn>12345678</msisdn></recipients></smsbatch></push>');
+<push><user>1</user><password>1</password><serviceid>1</serviceid><smsbatch><sendtime>00-00-0000 00:00:00</sendtime><sender>1</sender><price>0</price><message><![CDATA[test message]]></message><recipients><msisdn>12345678</msisdn></recipients></smsbatch><smsbatch><sendtime>00-00-0000 00:00:00</sendtime><sender>1</sender><price>0</price><message><![CDATA[test message]]></message><recipients><msisdn>12345678</msisdn></recipients></smsbatch></push>');
 
     }
 }
