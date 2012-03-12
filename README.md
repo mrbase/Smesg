@@ -13,7 +13,17 @@ So far the library only supports sending sms messages, querying for status, canc
 Installation
 ------------
 
-There will be a composer package once I get the time to build one, so for now just clone this repository.
+Install via [composer](http://packagist.org/packages/mrbase/smesg):
+
+``` json
+{
+    "require": {
+        "mrbase/smesg": "*"
+    }
+}
+```
+
+or clone this repository:
 
 `git clone https://github.com/mrbase/Smesg.git Smesg`
 
