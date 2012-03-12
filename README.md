@@ -133,3 +133,5 @@ $provider->addMessage('mobile_number_2', null);
 $provider->addMessage('mobile_number_3', null);
 $response = $provider->send();
 ```
+
+[![Build Status](https://secure.travis-ci.org/mrbase/Smesg.png?branch=master)](http://travis-ci.org/mrbase/Smesg)
