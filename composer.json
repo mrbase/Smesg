@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Providing wrappers for danish sms gateways",
     "keywords": ["sms", "gateway", "communication"],
-    "homepage": "http://github.com/mrbase/Smesg",
+    "homepage": "https://github.com/mrbase/Smesg",
     "authors": [
         {
             "name": "Ulrik Nielsen",
