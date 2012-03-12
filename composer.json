@@ -1,0 +1,19 @@
+{
+    "name": "mrbase/smesg",
+    "type": "library",
+    "description": "Providing wrappers for danish sms gateways",
+    "keywords": ["sms", "gateway", "communication"],
+    "homepage": "http://github.com/mrbase/Smesg",
+    "authors": [
+        {
+            "name": "Ulrik Nielsen",
+            "email": "un@mrbase.dk"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Smesg": "src/" }
+    }
+}

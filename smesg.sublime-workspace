@@ -1,0 +1,1060 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Simplexml",
+				"simplexml_load_string"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"array_me",
+				"array_merge_recursive"
+			],
+			[
+				"pr",
+				"provider"
+			],
+			[
+				"array_wal",
+				"array_walk_recursive"
+			],
+			[
+				"def",
+				"defaults"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"ba",
+				"batch"
+			],
+			[
+				"BATCH_",
+				"BATCH_MAX_QUANTITY"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"Sms",
+				"smesg"
+			],
+			[
+				"miss",
+				"missing"
+			],
+			[
+				"bo",
+				"setBody"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"xm",
+				"xmlDocument"
+			],
+			[
+				"ProductsToCate",
+				"ProductsToCategoriesQuery"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"pri",
+				"primaryKey"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"the",
+				"thePrice"
+			],
+			[
+				"errr",
+				"errors"
+			],
+			[
+				"dom",
+				"domain_key"
+			],
+			[
+				"InventS",
+				"InventSizeId"
+			],
+			[
+				"do",
+				"domains"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"no",
+				"now"
+			],
+			[
+				"doma",
+				"domains"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"i",
+				"i18n"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"cu",
+				"currtent_pager_id"
+			],
+			[
+				"ne",
+				"new_item"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"an",
+				"anim_params_in"
+			],
+			[
+				"cli",
+				"click_id"
+			],
+			[
+				"pa",
+				"params1"
+			],
+			[
+				"ul",
+				"url"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"get_",
+				"get_class_vars"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"produ",
+				"product_cache"
+			],
+			[
+				"define",
+				"defined"
+			],
+			[
+				"retur",
+				"return_result"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"cac",
+				"cache"
+			],
+			[
+				"c",
+				"consultant"
+			],
+			[
+				"init",
+				"initConsultantsmap"
+			],
+			[
+				"data",
+				"dataToContainer"
+			],
+			[
+				"preg_repla",
+				"preg_replace_callback"
+			],
+			[
+				"ch",
+				"check"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"ma",
+				"matches"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"cust",
+				"customers"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"file_get",
+				"file_get_contents"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"clo",
+				"closest"
+			],
+			[
+				"Q",
+				"quantity"
+			],
+			[
+				"att",
+				"attachments"
+			],
+			[
+				"at",
+				"attribute"
+			],
+			[
+				"http_b",
+				"http_build_query"
+			],
+			[
+				"bac",
+				"background	background: color image repeat attachment position"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"get_class_",
+				"get_class_vars"
+			],
+			[
+				"cl",
+				"clone"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"cal",
+				"cancel"
+			],
+			[
+				"m",
+				"msg"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"na",
+				"namespace"
+			],
+			[
+				"backgrou",
+				"background	background: color image repeat attachment position"
+			],
+			[
+				"loa",
+				"loading_status"
+			],
+			[
+				"o",
+				"overflow	overflow: type"
+			],
+			[
+				"mar",
+				"margin	margin: V H"
+			],
+			[
+				"is_ar",
+				"is_array"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"g",
+				"group"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_object"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"or",
+				"order_lines"
+			],
+			[
+				"order",
+				"order_lines"
+			],
+			[
+				"func",
+				"func_get_args"
+			],
+			[
+				"fl",
+				"flush"
+			],
+			[
+				"li",
+				"line"
+			],
+			[
+				"product_",
+				"product_path"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"rou",
+				"router_keys"
+			],
+			[
+				"pregma",
+				"preg_match"
+			],
+			[
+				"ro",
+				"router_keys"
+			],
+			[
+				"array_k",
+				"array_keys"
+			],
+			[
+				"get_cla",
+				"get_class_methods"
+			],
+			[
+				"count",
+				"countdown"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"dis",
+				"display: display: block"
+			],
+			[
+				"disp",
+				"display: display: block"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pres",
+				"preset"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"over",
+				"overflow: overflow: type"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"array_pu",
+				"array_push"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"func_get_a",
+				"func_get_args"
+			],
+			[
+				"wh",
+				"white: white-space: normal/pre/nowrap"
+			],
+			[
+				"rer",
+				"return"
+			],
+			[
+				"current",
+				"current"
+			],
+			[
+				"cur",
+				"current"
+			],
+			[
+				"debug_",
+				"debug_backtrace"
+			],
+			[
+				"mone",
+				"money_format"
+			],
+			[
+				"image_",
+				"images_references"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/un/System/var/www/Smesg/README.md",
+		"/home/un/System/var/www/Smesg/tests/bootstrap.php",
+		"/home/un/System/var/www/Smesg/tests/autoloader.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Adapter/PhpStreamAdapter.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Provider/UnwireProvider.php",
+		"/home/un/System/var/www/Smesg/un.php",
+		"/home/un/System/var/www/Smesg/tests/Smesg/Provider/TestUnwireProvider.php",
+		"/home/un/System/var/www/Smesg/composer.json",
+		"/home/un/System/var/www/Smesg/src/Smesg/Common/SimpleXMLExtended.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Adapter/AdapterInterface.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Common/MaxMessagesReachedException.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Provider/AbstractProvider.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Provider/ProviderInterface.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Common/Response.php",
+		"/home/un/System/var/www/Smesg/tests/Smesg/Common/TestResponse.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Provider/InMobileProvider.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Common/IllegalEndpoindException.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Adapter/CurlAdapter.php",
+		"/home/un/System/var/www/Smesg/tests/Smesg/Adapter/TestPhpStreamAdapter.php",
+		"/home/un/System/var/www/Smesg/vendor/symfony/class-loader/Symfony/Component/ClassLoader/composer.json",
+		"/home/un/System/var/www/Smesg/tests/Smesg/TestCase.php",
+		"/home/un/System/var/www/Smesg/tests/Smesg/Common/TestSimpleXMLExtended.php",
+		"/home/un/System/var/www/Smesg/tests/Smesg/Provider/TestInMobileProvider.php",
+		"/home/un/System/var/www/Smesg/tests/Smesg/Adapter/TestPhpStreamAdapter.html",
+		"/home/un/System/var/www/Smesg/src/Smesg/Smesg.php",
+		"/home/un/System/var/www/Smesg/vendor/.composer/autoload_namespaces.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Common/IllegalEndpoingException.php",
+		"/home/un/System/var/www/Smesg/src/Smesg/Adapter/AbstractAdapter.php",
+		"/home/un/System/var/www/Smesg/LICENSE",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/DataIOBundle/Command/ExportCommand.php",
+		"/home/un/System/var/www/multicommerce/system/bellcom/class.bcInMobileSms.php",
+		"/home/un/System/var/www/multicommerce/sites/pompdelux.dk/public_html/includes/siteFunctions.php",
+		"/home/un/System/var/www/multicommerce/system/bellcom/autoload/helperFunctions.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/WebServicesBundle/Services/Soap/ECommerceServices/ECommerceServices.php",
+		"/home/un/System/var/www/hanzo/hanzo/web/products.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/om/BaseProductsDomainsPrices.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/om/BaseProductsDomainsPricesPeer.php",
+		"/home/un/System/var/www/hanzo/hanzo/app/AppKernel.php",
+		"/home/un/System/var/www/hanzo/hanzo/app/config/config.yml",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Core/Hanzo.php",
+		"/home/un/System/var/www/multicommerce/sites/pompdelux.dk/public_html/includes/class.ECommerceServices.php",
+		"/home/un/System/var/www/hanzo/tmp/p/vendor/propel/runtime/lib/collection/PropelCollection.php",
+		"/home/un/System/var/www/hanzo/tmp/Propel/generator/lib/builder/om/PeerBuilder.php",
+		"/home/un/System/var/www/hanzo/tmp/Propel/generator/lib/builder/om/ObjectBuilder.php",
+		"/home/un/System/var/www/hanzo/tmp/Propel/generator/lib/builder/om/PHP5ExtensionObjectBuilder.php",
+		"/home/un/System/var/www/hanzo/tmp/Propel/generator/lib/builder/om/PHP5ObjectBuilder.php",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/propel/generator/lib/builder/om/PHP5ObjectBuilder.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/CMSBundle/Resources/config/schema.xml",
+		"/home/un/System/var/www/hanzo/tmp/Propel/generator/lib/builder/om/PHP5PeerBuilder.php",
+		"/home/un/System/var/www/hanzo/tmp/Propel/test/testsuite/generator/builder/om/GeneratedObjectTest.php",
+		"/home/un/System/var/www/hanzo/tmp/Propel/test/fixtures/bookstore/schema.xml",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/map/ProductsDomainsPricesTableMap.php",
+		"/home/un/System/var/www/hanzo/tmp/p/vendor/propel/runtime/lib/map/TableMap.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/om/BaseProductsStock.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/om/BaseProducts.php",
+		"/home/un/System/var/www/hanzo/tmp/p/vendor/propel/runtime/lib/collection/PropelObjectCollection.php",
+		"/home/un/System/var/www/hanzo/tmp/Propel/test/testsuite/generator/builder/om/PHP5ObjectBuilderTest.php",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/propel/generator/lib/builder/om/PHP5PeerBuilder.php",
+		"/home/un/System/var/www/hanzo/tmp/Propel/test/testsuite/generator/builder/om/GeneratedPeerLazyLoadTest.php",
+		"/home/un/System/var/www/hanzo/tmp/Propel/test/testsuite/generator/builder/om/GeneratedNestedSetPeerTest.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/Products.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/ProductsStock.php",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/propel/runtime/lib/collection/PropelCollection.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/ProductsDomainsPrices.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/om/BaseAddressesPeer.php",
+		"/home/un/System/var/www/hanzo/tmp/GeocodableBehavior/tests/GeocodableBehaviorTest.php",
+		"/home/un/System/var/www/hanzo/tmp/GeocodableBehavior/README.md",
+		"/home/un/System/var/www/hanzo/tmp/GeocodableBehavior/tests/GoogleApikeyProvider.php",
+		"/home/un/System/var/www/hanzo/tmp/GeocodableBehavior/src/GeocodableBehavior.php",
+		"/home/un/System/var/www/hanzo/tmp/GeocodableBehavior/tests/GoogleMapsApikeyProvider.php",
+		"/home/un/System/var/www/hanzo/tmp/p/vendor/propel/generator/lib/behavior/GeocodableBehavior/tests/GoogleMapsApikeyProvider.php",
+		"/home/un/System/var/www/hanzo/tmp/p/vendor/propel/generator/lib/behavior/GeocodableBehavior/tests/GeocodableBehaviorTest.php",
+		"/home/un/System/var/www/multicommerce/sites/pompdelux.dk/public_html/test/index.php",
+		"/home/un/System/var/www/hanzo/hanzo/web/un.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/om/BaseProductsQuery.php",
+		"/home/un/System/var/www/multicommerce/sites/pompdelux.dk/public_html/includes/class.pdlShopToAx.php",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/propel/runtime/lib/om/BaseObject.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/ProductsQuery.php",
+		"/home/un/System/var/www/hanzo/hanzo/tmp/products.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/DataIOBundle/Command/ImportCommand.php",
+		"/home/un/System/var/www/hanzo/hanzo/app/Resources/translations/account.da_DK.xliff",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/om/BaseProductsToCategories.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/ProductsToCategories.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/om/BaseCategoriesQuery.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/CategoriesQuery.php",
+		"/home/un/System/var/www/hanzo/cdn.hanzo/web/fx/scripts/category.js",
+		"/home/un/System/var/www/hanzo/cdn.hanzo/web/fx/css/category.css",
+		"/home/un/System/var/www/hanzo/cdn.hanzo/web/index.php",
+		"/home/un/System/var/www/hanzo/hanzo/web/app_dev.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/CategoryBundle/Resources/views/Default/view.html.twig",
+		"/home/un/System/var/www/hanzo/hanzo/app/config/config_prod.yml",
+		"/home/un/System/var/www/hanzo/hanzo/app/config/parameters.ini.dist",
+		"/home/un/System/var/www/hanzo/hanzo/app/Resources/views/base.html.twig",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Twig/Extension/MiscExtension.php",
+		"/home/un/System/var/www/hanzo/hanzo/docs/links",
+		"/home/un/System/var/www/hanzo/cdn.hanzo/web/fx/scripts/main.js",
+		"/home/un/System/var/www/hanzo/hanzo/app/config/hanzo.yml",
+		"/home/un/System/var/www/hanzo/hanzo/app/config/parameters.ini",
+		"/home/un/System/var/www/hanzo/hanzo.sublime-workspace",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/ServiceBundle/ServiceFactory.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/ProductBundle/Resources/views/Default/view.html.twig",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Core/RedisCache.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/OrdersPeer.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Model/Orders.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/BasketBundle/Controller/DefaultController.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/ProductBundle/Controller/DefaultController.php",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/symfony/src/Symfony/Component/Security/Acl/Domain/Acl.php",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/symfony/src/Symfony/Bundle/SecurityBundle/Twig/Extension/SecurityExtension.php",
+		"/home/un/System/var/www/hanzo/hanzo/app/config/config_dev.yml",
+		"/home/un/System/var/www/hanzo/hanzo/app/autoload.php",
+		"/home/un/System/var/www/hanzo/hanzo/app/config/routing.yml",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/AdminBundle/Resources/config/Yaml-generator.yml",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/propel/runtime/lib/collection/PropelOnDemandCollection.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/WebServicesBundle/Resources/config/routing.yml",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/WebServicesBundle/Controller/SoapController.php",
+		"/home/un/System/var/www/multicommerce/sites/pompdelux.dk/public_html/test/ECommerceServices.php",
+		"/home/un/System/var/www/multicommerce/sites/pompdelux.dk/public_html/test/import.php",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/WebServicesBundle/DependencyInjection/Configuration.php",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/symfony/src/Symfony/Component/Config/Loader/LoaderInterface.php",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/symfony/src/Symfony/Component/Config/Loader/Loader.php",
+		"/home/un/System/var/www/hanzo/hanzo/vendor/symfony/src/Symfony/Component/Translation/Loader/LoaderInterface.php",
+		"/home/un/System/var/www/hanzo/cdn.hanzo/web/fx/css/cart.css",
+		"/home/un/System/var/www/hanzo/hanzo/src/Hanzo/Bundle/BasketBundle/Resources/views/Default/view.html.twig",
+		"/home/un/System/var/www/hanzo/cdn.hanzo/web/fx/scripts/cart.js",
+		"/home/un/System/var/www/hanzo/cdn.hanzo/web/fx/scripts/dialoug.js",
+		"/home/un/System/var/www/hanzo/cdn.hanzo/web/fx/scripts/i18n.js",
+		"/home/un/System/var/www/multicommerce/sites/pompdelux.dk/public_html/ajax.php",
+		"/home/un/System/var/www/hanzo/cdn.hanzo/web/fx/scripts/product.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/un/System/var/www/hanzo/hanzo/src",
+			"/home/un/System/var/www/hanzo/hanzo/vendor/symfony/src/Symfony/Component/Form",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"batch",
+			"     */",
+			"MS",
+			"InventQtyPhysicalOnhand",
+			"_doma",
+			"inventory",
+			"colle",
+			"instance",
+			"_doma",
+			"_stock",
+			"getInstancePoolKeySnippet",
+			"Adds an object to the instance pool",
+			"    *",
+			"getfromda",
+			"ad",
+			"exchangeArray",
+			"n save",
+			"validate",
+			"ProductsDomainsPrices",
+			"CustAccount   = '5'",
+			"CustAccount   = '4'",
+			"CustAccount   = '1'",
+			"else",
+			"domains",
+			" $i ",
+			"InventColorId",
+			"scategories",
+			" $a ",
+			"$i",
+			"get",
+			"PriceUnit",
+			"orderby",
+			"Query",
+			"productstoca",
+			"(fixme|todo)",
+			",\\n   ",
+			"i18n",
+			"productstocat",
+			"Ulrik Tester Produkter",
+			"Ulrik Tester Produkter\n",
+			"Ulrik Tester Produkter",
+			"session",
+			"exchangeArray",
+			"ProductsDomainsPrices",
+			"responce",
+			"edit_",
+			"'.$name.'<br>",
+			"n to",
+			"BaseCustomersQuery",
+			"'   => $",
+			"e name=\"order",
+			"\"consu",
+			"\"orders\"",
+			"clearAllReferences",
+			"clearAllReferences()",
+			" update",
+			"n isModified",
+			"n save",
+			"set",
+			"attri",
+			"near",
+			"yatzy",
+			"address",
+			"'Loading ...'",
+			".on(",
+			"overla",
+			"inde",
+			"z-",
+			"overlayClose",
+			"opacity",
+			"settings.opacity",
+			"$overlay",
+			"overla",
+			"mysql",
+			"@todo",
+			"dim",
+			"'))",
+			"orders_",
+			"uni",
+			"ref",
+			"limit",
+			"orderb",
+			"twig_string",
+			"router",
+			"setpa",
+			"getpa",
+			"part(",
+			"getpart",
+			"- ",
+			".products",
+			"load",
+			"must",
+			"getc",
+			"filterby",
+			"loader",
+			".message",
+			"form_row",
+			"class nnoSearchIDQuestion {\n  public $TDC_PID; // int\n  public $username; // string\n}\n",
+			"acco",
+			"add",
+			"translation_domain",
+			"attri",
+			"domain",
+			"geocoder_adapter",
+			"propel.project",
+			"geo",
+			"geoc",
+			"id=\"[0-9]+\"",
+			"add(",
+			"createw",
+			"option",
+			"addAdd",
+			"addresses",
+			"address",
+			"getaddress",
+			"getaddresse",
+			"geocode",
+			"43",
+			"pre",
+			"post",
+			"refreshUser",
+			"conf",
+			"delivery_",
+			"login.html.twig",
+			".product-table .image",
+			"#body-shopping-cart",
+			"basket",
+			"1985"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"     *",
+			"CustAccount   = 'COM'",
+			"CustAccount   = 'NL'",
+			"CustAccount   = 'DK'",
+			" $c ",
+			" $b ",
+			" $i ",
+			"<?php echo $a ?>",
+			"$a",
+			"<?php echo $i ?>",
+			"",
+			";\\nuse",
+			",\\nuse",
+			"cache_1\nUlriks Test Produkt\n",
+			"cache_1\ncache_1\n",
+			"response",
+			"<h4>'.$name.'</h4>",
+			"i18n.t('Loading ...')",
+			"TODO:",
+			"",
+			"  pub.error = function (title, message, timeout) {\n    pub.alert(title, message, 'error', timeout);\n  }\n",
+			"id=\"\"",
+			"",
+			"\n",
+			"#body-basket",
+			"getCurrent",
+			"*/",
+			"(/fx/css/colorbox/theme5/images/",
+			"(/fx/css/colorbox/theme4/images/",
+			"(/fx/css/colorbox/theme3/images/",
+			"(/fx/css/colorbox/theme2/images/",
+			"(/fx/css/colorbox/theme1/images/",
+			"\") or die('Line: '.__LINE__.\"\\n\".mysql_error());",
+			"\") or (die('Line: '.__LINE__.\"\\n\".mysql_error());",
+			") or (die('Line: '.__LINE__.\"\\n\".mysql_error());",
+			"mysql_query(",
+			"query",
+			"",
+			"/example5/images/",
+			"/example4/images/",
+			"/example3/images/",
+			"/example2/images/",
+			"/example1/images/",
+			"/images/example3/",
+			"/images/example2/",
+			"/images/example1/",
+			"(/fx/scripts/colorbox/images/",
+			"$this->",
+			"(/fx/scripts/colorbox/example5/images/",
+			"(/fx/scripts/colorbox/example4/images/",
+			"(/fx/scripts/colorbox/example3/images/",
+			"(/fx/scripts/colorbox/example1/images/",
+			"",
+			"/fx",
+			"-product",
+			",\\n    Hanzo\\\\Model\\\\",
+			",\\n\\t",
+			"controller",
+			"/fx/images",
+			"$locale",
+			"\\n\"; flush();",
+			" flush();",
+			"__LINE__ . \"\\n\")",
+			"die(mysql_error() . ' » ' . __LINE__)",
+			",\\n  Hanzo\\\\Model\\\\P",
+			"\\n  Hanzo\\\\Model\\\\P",
+			"  Hanzo\\\\Model\\\\",
+			"  _",
+			" :",
+			" ",
+			",",
+			":",
+			"",
+			"$setting->setDomainKey($domain->getDomainKey());",
+			"",
+			",\\n",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"symcomloa",
+				"hanzo/vendor/symfony/src/Symfony/Component/Config/Loader/Loader.php"
+			],
+			[
+				"symfoncompoloa",
+				"hanzo/vendor/symfony/src/Symfony/Component/Config/Loader/LoaderInterface.php"
+			],
+			[
+				"srhanbunwesto",
+				"hanzo/src/Hanzo/Bundle/WebServicesBundle/Controller/RestStockController.php"
+			],
+			[
+				"class.bce",
+				"system/bellcom/class.bcEvent.php"
+			],
+			[
+				"shopt",
+				"sites/konsulent.pompdelux.dk/public_html/includes/class.pdlShopToAx.php"
+			],
+			[
+				"checkout_payment",
+				"sites/pompdelux.dk/public_html/templates/pompdelux/content/checkout_payment.tpl.php"
+			],
+			[
+				"rma",
+				"sites/all/modules/custom/rma/rma.module"
+			],
+			[
+				"ctools",
+				"sites/all/modules/contrib/ctools/ctools.api.php"
+			],
+			[
+				"rma_mo",
+				"sites/all/modules/custom/rma/modules/rma_case_wizard/rma_case_wizard.module"
+			],
+			[
+				"_rma_",
+				"sites/all/modules/custom/rma/modules/rma_case_wizard/rma_case_wizard.module"
+			],
+			[
+				"sro",
+				"sites/default/modules/custom/sa_redirect_old/sa_redirect_old.module"
+			],
+			[
+				"sa_ta",
+				"sites/default/modules/custom/sa_tagcloud/sa_tagcloud.info"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/un/arbejde/www/rubbar.dk/tmp/rubbar.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true
+}
