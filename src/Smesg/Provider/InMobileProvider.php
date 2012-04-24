@@ -38,8 +38,6 @@ class InMobileProvider extends AbstractProvider implements ProviderInterface
 
     /**
      * @var array
-     *
-     * TODO: translate error codes into english
      */
     protected $error_codes = array(
           2 => 'The message is delivered to the mobile number and the valuation is completed (if this parameter is specified)',
