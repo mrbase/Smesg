@@ -262,6 +262,9 @@ class UnwireProvider extends AbstractProvider implements ProviderInterface
             $response = $adapter->post();
         }
 
+        // empty query
+        $this->messages = array();
+
         return $response;
     }
 
