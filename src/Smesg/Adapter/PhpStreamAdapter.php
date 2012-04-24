@@ -75,8 +75,9 @@ class PhpStreamAdapter implements AdapterInterface
             'http' => array(
                 'header' => 'Content-type: ' . $content_type,
                 'method' => 'GET',
-                'max_redirects' => 0,
                 'timeout' => 5,
+                'max_redirects' => 0,
+                'ignore_errors' => 1,
             )
         );
 
@@ -174,8 +175,9 @@ class PhpStreamAdapter implements AdapterInterface
             'http' => array(
                 'header' => 'Content-type: ' . $content_type,
                 'method' => 'POST',
-                'max_redirects' => 0,
                 'timeout' => 5,
+                'max_redirects' => 0,
+                'ignore_errors' => 1,
                 'content' => $content,
             )
         );
